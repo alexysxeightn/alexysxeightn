@@ -1,7 +1,7 @@
 ### Hi, i am Alexys) 👋
 
 - 20 y.o
-- ex Intern [VK](https://vk.com) (Marusia, Text-to-speech)
+- ex Intern [VK](https://vk.company) (Marusia, Text-to-speech)
 - [MADE](https://data.vk.company) student
 - [AI Masters](https://aimasters.ru) student
 
